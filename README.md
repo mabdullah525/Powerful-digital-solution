@@ -6,6 +6,7 @@
 
 ## How to download ?
 This file is download on my git hub profile link.
+* Click on Website name
 
 * Click on the code 
 
