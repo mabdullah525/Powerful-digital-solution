@@ -1,5 +1,5 @@
 ## 🚀 About this project
-I'm a frontent developer developer...And This is the Powerful Digital Solutions With GP website template.
+ This is the Powerful Digital Solutions With GP website template.
 
 * Only html or css and little bit javascript use in the project
 
